@@ -4,12 +4,13 @@ It shows the importance of use of Interfaces in OOP.
 Datapool ! is the all-in-one version, please check Datapool" for the DAO version.
 
 The application is created using Symfony2 framework, PHP 5.5and MySQL server under Linux OS (Ubuntu) and tested with the built-in php web server.
-#How to run me
+How to run me
+==============
 Please run the DumbTyre.sql and check your DB settings in app/config/parameters.yml
 You will find also a products.xml file in web/bundles/tyretyre/xml.
-As test case, I worked only with DB and XML file as data sources, but the model can be extended
-to other data sources (JSON, CSV, Excel, Access, ...)
-to run the application, you have just to be in the folder auth_project
+As test case, I worked only with DB and XML file as data sources, but the model can be extended to other data sources (JSON, CSV, Excel, Access, ...)
+
+to run the application, you have just to be in the folder auth_project:
 $ cd [your_home_path]/tyre
 Once you are in, just check if your system meets all technical requirements :
 $ php app/check.php
