@@ -4,6 +4,7 @@ It shows the importance of use of Interfaces in OOP.
 Datapool ! is the all-in-one version, please check Datapool" for the DAO version.
 
 The application is created using Symfony2 framework, PHP 5.5and MySQL server under Linux OS (Ubuntu) and tested with the built-in php web server.
+
 How to run me
 ==============
 Please run the DumbTyre.sql and check your DB settings in app/config/parameters.yml
